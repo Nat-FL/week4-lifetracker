@@ -39,9 +39,10 @@ By the end of this project you will be able to...
 - [ ] Deploy your website with Render. Check out our [Render Deployment Guide](https://courses.codepath.org/snippets/site/render_deployment_guide) for detailed instructions.
 
 ###Video
-<a href="https://www.loom.com/share/f6874da2035543aebde67d4c46f2adc0">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f6874da2035543aebde67d4c46f2adc0-with-play.gif">
+<a href="https://www.loom.com/share/2906766a472d43758639e5e83c2885e0">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2906766a472d43758639e5e83c2885e0-with-play.gif">
   </a>
+
 
 ### Stretch Features
 
